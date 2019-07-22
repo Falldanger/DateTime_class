@@ -1,0 +1,6 @@
+Classes for working with date and time
+
+Create two random dates (using mt_rand ()) and set them to 2 DateTime objects.
+Find the number of days, hours, minutes, and seconds by which one date is different from another.
+Split into periods with an interval of 1 day.
+In the cycle, print all the dates that are contained between those created in the 1st paragraph, with an interval from the 3rd paragraph.
